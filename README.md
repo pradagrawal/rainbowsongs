@@ -1,2 +1,3 @@
 # rainbowsongs
-This has all Rainbow sings
+
+This has all Rainbow songs in the key of C major.
